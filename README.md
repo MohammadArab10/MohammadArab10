@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohammadArab10
-- 👀 I’m interested in ... software Enginner
+- 👀 I’m interested in ... Software Enginner
 - 🌱 I’m currently learning ... dart && flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email: mohammad.00365839@gmail
